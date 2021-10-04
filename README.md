@@ -3,10 +3,8 @@ Credit card fraud detection using Machine Learning models.
 1. Logistic Regression 
 2. Random Forest 
 3. Decision Tree 
-4. KNN 
-5. Naive Bayes 
-6. SVM 
-7. XGBoost
+4. Naive Bayes 
+5. XGBoost
 
 Use dataset Synthectic financial that is available on kaggle. https://www.kaggle.com/ealaxi/paysim1  
 This is a sample of 1 row with headers explanation:  
